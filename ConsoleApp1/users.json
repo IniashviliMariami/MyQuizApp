@@ -1,0 +1,66 @@
+[
+  {
+    "Username": "mariami",
+    "Password": "1234",
+    "HighScore": 0,
+    "CreatedQuizIds": [
+      1
+    ]
+  },
+  {
+    "Username": "nino",
+    "Password": "abcd",
+    "HighScore": 60,
+    "CreatedQuizIds": [
+      2
+    ]
+  },
+  {
+    "Username": "iniashvili",
+    "Password": "1234",
+    "HighScore": 60,
+    "CreatedQuizIds": [
+      1
+    ]
+  },
+  {
+    "Username": "nita",
+    "Password": "12345",
+    "HighScore": 100,
+    "CreatedQuizIds": [
+      1
+    ]
+  },
+  {
+    "Username": "nana",
+    "Password": "nana1",
+    "HighScore": 80,
+    "CreatedQuizIds": [
+      1
+    ]
+  },
+  {
+    "Username": "marr",
+    "Password": "123",
+    "HighScore": 100,
+    "CreatedQuizIds": []
+  },
+  {
+    "Username": "niko",
+    "Password": "123",
+    "HighScore": 0,
+    "CreatedQuizIds": []
+  },
+  {
+    "Username": "nia",
+    "Password": "123",
+    "HighScore": 0,
+    "CreatedQuizIds": []
+  },
+  {
+    "Username": "gio",
+    "Password": "123",
+    "HighScore": 0,
+    "CreatedQuizIds": []
+  }
+]

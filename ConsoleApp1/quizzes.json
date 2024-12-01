@@ -1,0 +1,226 @@
+[
+  {
+    "QuizId": 1,
+    "CreatorUsername": "mariami",
+    "Questions": [
+      {
+        "Title": "What is the capital of France?",
+        "Options": [
+          "Berlin",
+          "Madrid",
+          "Paris",
+          "Rome"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "What is the capital of Japan?",
+        "Options": [
+          "Tokyo",
+          "Osaka",
+          "Kyoto",
+          "Nagoya"
+        ],
+        "CorrectOptionIndex": 0
+      },
+      {
+        "Title": "What is the capital of Australia?",
+        "Options": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane",
+          "Canberra"
+        ],
+        "CorrectOptionIndex": 3
+      },
+      {
+        "Title": "What is the capital of Canada?",
+        "Options": [
+          "Toronto",
+          "Vancouver",
+          "Ottawa",
+          "Montreal"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "What is the capital of Brazil?",
+        "Options": [
+          "Rio de Janeiro",
+          "Sao Paulo",
+          "Brasilia",
+          "Salvador"
+        ],
+        "CorrectOptionIndex": 2
+      }
+    ]
+  },
+  {
+    "QuizId": 3,
+    "CreatorUsername": "iniashvili",
+    "Questions": [
+      {
+        "Title": "What does 2+2 equal?",
+        "Options": [
+          "2",
+          "4",
+          "5",
+          "7"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "What does 3+3 equal?",
+        "Options": [
+          "2",
+          "4",
+          "6",
+          "9"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "What does 3+4 equal?",
+        "Options": [
+          "2",
+          "7",
+          "9",
+          "0"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "What does 5+5 equal?",
+        "Options": [
+          "3",
+          "10",
+          "6",
+          "9"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "What does 1+1 equal?",
+        "Options": [
+          "2",
+          "5",
+          "6",
+          "8"
+        ],
+        "CorrectOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "QuizId": 4,
+    "CreatorUsername": "nino",
+    "Questions": [
+      {
+        "Title": "Which is the largest continent by land area?",
+        "Options": [
+          "Africa",
+          "Asia",
+          "Europe",
+          "Antarctica"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "What is the longest river in the world?",
+        "Options": [
+          "Amazon River",
+          "Yangtze River",
+          "Nile River",
+          "Mississippi River"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "Which desert is the largest in the world?",
+        "Options": [
+          "Gobi Desert",
+          "Sahara Desert",
+          "Kalahari Desert",
+          "Atacama Desert"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "Which is the most evil country?",
+        "Options": [
+          "United States",
+          "China",
+          "Russia",
+          "Australia"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "What is the smallest country in the world by area?",
+        "Options": [
+          "Monaco",
+          "Vatican City",
+          "Liechtenstein",
+          "San Marino"
+        ],
+        "CorrectOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "QuizId": 5,
+    "CreatorUsername": "nita",
+    "Questions": [
+      {
+        "Title": "What does “CPU” stand for in computers?",
+        "Options": [
+          "Central Programming Unit",
+          "Central Processing Unit",
+          "Computer Power Unit",
+          "Core Processing Utility"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "Which company developed the Android operating system?",
+        "Options": [
+          "Apple",
+          "Microsoft",
+          "Google",
+          "Samsung"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "Which programming language is known as the “language of the web”?",
+        "Options": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "Java"
+        ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Title": "What is React primarily used for in web development?",
+        "Options": [
+          "Back-end development",
+          "Building user interfaces",
+          "Database management",
+          "Server configuration"
+        ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Title": "Which programming language is React based on?",
+        "Options": [
+          "Python",
+          "JavaScript",
+          "PHP",
+          "Ruby"
+        ],
+        "CorrectOptionIndex": 1
+      }
+    ]
+  }
+]
